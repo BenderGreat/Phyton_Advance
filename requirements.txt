@@ -1,4 +1,5 @@
 jupyter
 chardet
 py-dateutil
-re
+# re
+pyyaml
